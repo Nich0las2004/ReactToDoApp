@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.tasks{
+    width:230px;
+    height:500px;
+    margin-top:50px;
+    background:lightgrey;
+    border-radius: 10px;
+    padding:5px;
+    display:flex;
+    flex-direction: column;
+}
+.task{
+    width: 230px;
+    height:30px;
+    background:white;
+    border-radius: 10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 5px 0;
+}
